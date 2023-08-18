@@ -7,8 +7,11 @@
 📫 Feel free to reach out:
 
 GitHub: https://github.com/Sai-Rakshana
+
 LinkedIn: https://www.linkedin.com/in/sai-rakshana-karuppusami-231a461a4/
+
 Email: sairakshanak@gmail.com
+
 Looking forward to connecting with fellow data enthusiasts, researchers, and creators! 🚀 #DataScience #MachineLearning #OpenToWork
 
 <!---
